@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://grilli.pages.dev/sitemap.xml
+Sitemap: https://chipper-tartufo-bd8012.netlify.app//sitemap.xml
